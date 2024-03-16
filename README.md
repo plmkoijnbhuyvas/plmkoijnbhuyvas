@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
-<h3 align="center">An aspiring **Data Scientist** | **Quantitative Analyst**</h3>
+<h3 align="center">An aspiring Data Scientist | Quantitative Analyst</h3>
 
 # ✨ About Me:
 - 🌱 I'm currently learning **Python** | **SPSS** | **R**
